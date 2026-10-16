@@ -1,0 +1,14 @@
+{
+  "name": "online-quiz-system",
+  "version": "1.0.0",
+  "description": "B.Tech CSE Mini Project - Online Quiz System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.15.0"
+  }
+}
